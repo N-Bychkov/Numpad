@@ -1,6 +1,6 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Nikolay Bychkov, General Engineering Student (2028)
+Nikolaybychkov@vt.edu
 
 ## Mentor
 MENTOR NAME HERE
@@ -10,7 +10,7 @@ IN PROGRESS
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+Numpad is a number pad/macro pad I designed from scratch. This project aimed to develop my Kicad and Onshape skills, learn more about the PCB design and build process, and gain experience designing for 3D printing. 
 
 ## Educational Value Added
 
