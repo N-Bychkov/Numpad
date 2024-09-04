@@ -12,9 +12,18 @@ IN PROGRESS
 
 Numpad is a number pad/macro pad I designed from scratch. This project aimed to develop my Kicad and Onshape skills, learn more about the PCB design and build process, and gain experience designing for 3D printing. 
 
+Here is a picture of the first prototype.
+![alt text](<numpad v1 photo.jpg>)
+
+CAD render:
+![alt text](<Cad Render v1.png>)
+
+Schematic:
+![alt text](<PCB Schematic v1.png>)
+
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+
 
 ## Tasks
 
