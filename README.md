@@ -3,7 +3,8 @@ Nikolay Bychkov, General Engineering Student (2028)
 Nikolaybychkov@vt.edu
 
 ## Mentor
-MENTOR NAME HERE
+Dr. Arthur Ball
+aball@vt.edu
 
 ## Current Status
 IN PROGRESS
