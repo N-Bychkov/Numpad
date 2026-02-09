@@ -1,5 +1,5 @@
 ## Members
-Nikolay Bychkov, General Engineering Student (2028)
+Nikolay Bychkov, Mechanical Engineering Student (2028)
 Nikolaybychkov@vt.edu
 
 ## Mentor
@@ -21,3 +21,4 @@ CAD render:
 
 Schematic:
 ![alt text](<PCB Schematic v1.png>)
+
